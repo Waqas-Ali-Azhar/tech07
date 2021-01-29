@@ -5,9 +5,9 @@
 </head>
 <body>
 
-  <h1>Git Commands</h1>
+  <h1>Git Command</h1>
 
-  
+
 
 </body>
 </html>
